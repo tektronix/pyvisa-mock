@@ -9,7 +9,7 @@ with open(requirements_fname) as fp:
 
 setup(
     name="pyvisa_mock",
-    version="0.52",
+    version="0.52.1",
     packages=find_packages(),
     python_requires='>=3.6.*',
     install_requires=install_requires,
